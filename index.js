@@ -1,10 +1,11 @@
-//base by DGXeon
+//base by Akufamilia 
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @AkuBrecah Entertainment
+//Telegram: https://t.me/Akubrecah
+//GitHub: @AkuBrecah
+//WhatsApp: https://chat.whatsapp.com/IB3XPzHftwHAL4cnDPcI8v
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@AkuBrecah Entertainment
+
 
 const {
    spawn
