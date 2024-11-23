@@ -1,10 +1,11 @@
-//base by DGXeon
+//base by Akufamilia 
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @GlobalTechInfo
-//Telegram: https://t.me/GlobalTechInc
-//GitHub: @GlobalTechInfo
-//WhatsApp: https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@GlobalTechInfo
+//YouTube: @AkuBrecah Entertainment
+//Telegram: https://t.me/Akubrecah
+//GitHub: @AkuBrecah
+//WhatsApp: https://chat.whatsapp.com/IB3XPzHftwHAL4cnDPcI8v
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@AkuBrecah Entertainment
+
 
 const { default: makeWASocket, fetchLatestBaileysVersion, downloadContentFromMessage, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -175,7 +176,7 @@ async function Telesticker(url) {
             data2 = await axios(`https://api.telegram.org/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/getFile?file_id=${fileId}`)
             result = {
             status: 200,
-            author: 'DGXeon',
+            author: 'Akubrecah',
             url: "https://api.telegram.org/file/bot891038791:AAHWB1dQd-vi0IbH2NjKYUk-hqQ8rQuzPD4/" + data2.data.result.file_path
             }
             xeonyresult.push(result)
